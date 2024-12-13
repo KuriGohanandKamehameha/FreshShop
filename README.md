@@ -1,9 +1,19 @@
 API Endpoints
 POST /add_to_cart/ - Add a product to the cart   -   http://127.0.0.1:8000/add_to_cart/
+
+
 GET /view_cart - View the user's cart, including total price -   http://127.0.0.1:8000/view_cart
+
+
 GET /products/ - List all products - http://127.0.0.1:8000/products
+
+
 GET /users/ - Get a list of all users - http://127.0.0.1:8000/users/
+
+
 POST /register/ - Register a new user - http://127.0.0.1:8000/register/
+
+
 POST /user_login/ - Log in an existing user - http://127.0.0.1:8000/user_login/
 
 
